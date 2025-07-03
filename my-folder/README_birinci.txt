@@ -1,1 +1,2 @@
-# This is a new folder
+# This is a new folder generated automatically
+
